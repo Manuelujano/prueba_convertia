@@ -866,6 +866,18 @@ footer .up {
         background-repeat: no-repeat;
         background-position: 60%;    
     }
+    .col-left 
+    .overlay {
+      opacity: 0;
+      display: none;
+ 
+    }
+    .col-right
+    .overlay {
+      opacity: 0;
+      display: none;
+  
+    }
     .text{
         margin-top: 200px;
         color: #0063BC;
