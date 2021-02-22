@@ -866,13 +866,13 @@ footer .up {
         background-repeat: no-repeat;
         background-position: 60%;    
     }
-    .col-left 
+    .col-left:hover
     .overlay {
       opacity: 0;
       display: none;
  
     }
-    .col-right
+    .col-right:hover
     .overlay {
       opacity: 0;
       display: none;
